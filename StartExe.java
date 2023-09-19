@@ -4,7 +4,7 @@ import java.awt.event.KeyEvent;
 import java.io.IOException;
 import java.io.OutputStream;
 
-public class Sample{
+public class StartExe{
 	public static void main(String[] args) throws AWTException {
 		try {
 			Robot robot = new Robot();
